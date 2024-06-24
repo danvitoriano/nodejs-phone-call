@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-phone-call",
+  "version": "1.0.0",
+  "description": "Pequeno script onde um número da Twilio liga pro seu celular",
+  "main": "make-call-console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danvitoriano/nodejs-phone-call.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danvitoriano/nodejs-phone-call/issues"
+  },
+  "homepage": "https://github.com/danvitoriano/nodejs-phone-call#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
